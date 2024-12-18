@@ -1,5 +1,7 @@
 #include <test.h>
 
+#include <memory>
+
 TestSpace::TestClass::TestClass() {
     // Source kod
 };
